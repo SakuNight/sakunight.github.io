@@ -260,7 +260,7 @@ comments:
   giscus:
     # 以下配置按照 yml 格式增删填写即可
     repo: sakunight/sakunight.github.io
-    repo-id: R_kgDOIbqYzw
+    repo-id: R_kgDOKPgFug
     category: Announcements
     category-id: DIC_kwDOIbqYz84CZFpy
     mapping: "pathname"
